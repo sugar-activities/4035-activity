@@ -1,0 +1,73 @@
+# Spanish translations for Read Etexts package.
+# Copyright (C) 2009 James D. Simmons
+# This file is distributed under the same license as the PACKAGE package.
+# James Simmons <ja.simmons@sbcglobal.net>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-19 18:25-0600\n"
+"PO-Revision-Date: 2009-02-19 18:31-0600\n"
+"Last-Translator: James Simmons <ja.simmons@sbcglobal.net>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: activity/activity.info:2
+msgid "Read ETexts"
+msgstr "Actividad Leer"
+
+#: ReadEtextsActivity.py:147
+msgid "Edit"
+msgstr ""
+
+#: ReadEtextsActivity.py:152
+msgid "Read"
+msgstr ""
+
+#: ReadEtextsActivity.py:157
+msgid "View"
+msgstr "Ver"
+
+#: ReadEtextsActivity.py:163
+msgid "Speech"
+msgstr ""
+
+#: ReadEtextsActivity.py:228
+msgid "Choose document"
+msgstr "Abrir un documento para leer"
+
+#: readtoolbar.py:43
+msgid "Back"
+msgstr "Volver"
+
+#: readtoolbar.py:50
+msgid "Forward"
+msgstr "Avanzar"
+
+#: readtoolbar.py:159
+msgid "Zoom out"
+msgstr ""
+
+#: readtoolbar.py:165
+msgid "Zoom in"
+msgstr ""
+
+#: readtoolbar.py:205
+msgid "Previous"
+msgstr "Anterior"
+
+#: readtoolbar.py:212
+msgid "Next"
+msgstr "Siguiente"
+
+#: readtoolbar.py:312
+msgid "pitch adjusted"
+msgstr ""
+
+#: readtoolbar.py:316
+msgid "rate adjusted"
+msgstr ""
